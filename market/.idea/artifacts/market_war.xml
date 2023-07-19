@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="market:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="chaoshi.war">
+      <element id="artifact" artifact-name="market:war exploded" />
+    </root>
+  </artifact>
+</component>
